@@ -1,2 +1,2 @@
 # Final-Project
-https://github.com/nullSpac3/Final-Project.git
+https://nullspac3.github.io/Final-Project/
